@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Volta Elite Academy monogram">
+  <title>Volta Elite Academy monogram</title>
+  <circle cx="64" cy="64" r="60" fill="#0A2A6B"/>
+  <circle cx="64" cy="64" r="54" fill="none" stroke="#D4A94A" stroke-width="3"/>
+  <circle cx="64" cy="64" r="48" fill="none" stroke="#FFFFFF" stroke-width="1.25"/>
+  <text x="64" y="72" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" fill="#FFFFFF" letter-spacing="1">VEA</text>
+</svg>

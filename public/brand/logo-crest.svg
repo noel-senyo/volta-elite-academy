@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 440" role="img" aria-label="Volta Elite Academy crest">
+  <title>Volta Elite Academy crest</title>
+  <g fill="#D4A94A">
+    <ellipse cx="78" cy="188" rx="11" ry="4.5" transform="rotate(-55 78 188)"/>
+    <ellipse cx="68" cy="214" rx="11" ry="4.5" transform="rotate(-70 68 214)"/>
+    <ellipse cx="64" cy="242" rx="11" ry="4.5" transform="rotate(-82 64 242)"/>
+    <ellipse cx="68" cy="270" rx="11" ry="4.5" transform="rotate(-100 68 270)"/>
+    <ellipse cx="80" cy="296" rx="11" ry="4.5" transform="rotate(-120 80 296)"/>
+    <ellipse cx="282" cy="188" rx="11" ry="4.5" transform="rotate(55 282 188)"/>
+    <ellipse cx="292" cy="214" rx="11" ry="4.5" transform="rotate(70 292 214)"/>
+    <ellipse cx="296" cy="242" rx="11" ry="4.5" transform="rotate(82 296 242)"/>
+    <ellipse cx="292" cy="270" rx="11" ry="4.5" transform="rotate(100 292 270)"/>
+    <ellipse cx="280" cy="296" rx="11" ry="4.5" transform="rotate(120 280 296)"/>
+  </g>
+  <path d="M78 176c8 40 10 90 22 140" fill="none" stroke="#D4A94A" stroke-width="2"/>
+  <path d="M282 176c-8 40-10 90-22 140" fill="none" stroke="#D4A94A" stroke-width="2"/>
+  <path d="M180 28 274 70 274 176c0 62-40 112-94 142-54-30-94-80-94-142V70Z" fill="#0A2A6B" stroke="#D4A94A" stroke-width="6"/>
+  <path d="M180 44 258 80 258 174c0 52-34 96-78 122-44-26-78-70-78-122V80Z" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+  <polygon fill="#D4A94A" points="180,58 184,68 195,69 186,76 189,87 180,81 171,87 174,76 165,69 176,68"/>
+  <g transform="translate(168 108)">
+    <ellipse cx="18" cy="18" rx="30" ry="16" fill="#FFFFFF"/>
+    <path d="M-8 16c-22-2-40 8-52 2 16 6 32 2 44-6-10 8-8 14 8 4z" fill="#FFFFFF"/>
+    <path d="M8 10c8-18 28-16 34-2-12-2-22 4-26 10 8-8 18-8 22-2-12 2-20 8-30-6z" fill="#8EC5FF"/>
+    <path d="M42 12c16-6 28-24 16-36 2 12-6 18-16 20 10-4 14-12 10-20-8 10-12 22-10 36z" fill="#FFFFFF"/>
+    <circle cx="52" cy="-20" r="7" fill="#FFFFFF"/>
+    <path d="M46-20 34-26 46-14z" fill="#D4A94A"/>
+    <ellipse cx="30" cy="-28" rx="4.5" ry="6" fill="#D4A94A"/>
+    <circle cx="54" cy="-22" r="1.3" fill="#0A2A6B"/>
+  </g>
+  <path d="M112 196 146 150 176 184 206 138 236 176 268 154 292 196Z" fill="#8EC5FF"/>
+  <path d="M150 196 196 132 248 196Z" fill="#1E6FD9"/>
+  <path d="M118 196 156 158 198 196Z" fill="#2BB3C0"/>
+  <g transform="translate(138 186)">
+    <path d="M8 8h36c8 10 8 18 0 28H8c-6-10-6-18 0-28z" fill="#FFFFFF" stroke="#D4A94A" stroke-width="1.4"/>
+    <path d="M84 8H48c-8 10-8 18 0 28h36c6-10 6-18 0-28z" fill="#FFFFFF" stroke="#D4A94A" stroke-width="1.4"/>
+    <path d="M44 8v28" stroke="#D4A94A" stroke-width="1.6"/>
+  </g>
+  <path d="M118 236c18 12 34-10 52 0s34 12 52 0 34-10 52 0" fill="none" stroke="#1E6FD9" stroke-width="3" stroke-linecap="round"/>
+  <path d="M118 250c18 12 34-10 52 0s34 12 52 0 34-10 52 0" fill="none" stroke="#8EC5FF" stroke-width="3" stroke-linecap="round"/>
+  <path d="M118 264c18 12 34-10 52 0s34 12 52 0 34-10 52 0" fill="none" stroke="#2BB3C0" stroke-width="3" stroke-linecap="round"/>
+  <path d="M108 332h144l16 18-16 18H108l-16-18z" fill="#0A2A6B" stroke="#D4A94A" stroke-width="2"/>
+  <path d="M120 341h120l8 9-8 9H120l-8-9z" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+</svg>
